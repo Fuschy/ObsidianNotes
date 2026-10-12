@@ -1,12 +1,12 @@
 {
   "commitMessage": "vault backup: {{date}}",
   "autoCommitMessage": "vault backup: {{date}}",
-  "commitMessageScript": "vault backup: {{date}}",
+  "commitMessageScript": "",
   "commitDateFormat": "YYYY-MM-DD HH:mm:ss",
   "autoSaveInterval": 10,
   "autoPushInterval": 0,
-  "autoPullInterval": 10,
-  "autoPullOnBoot": true,
+  "autoPullInterval": 0,
+  "autoPullOnBoot": false,
   "autoCommitOnlyStaged": false,
   "disablePush": false,
   "pullBeforePush": true,
@@ -23,7 +23,7 @@
   "customMessageOnAutoBackup": false,
   "autoBackupAfterFileChange": false,
   "treeStructure": false,
-  "refreshSourceControl": false,
+  "refreshSourceControl": true,
   "basePath": "",
   "differentIntervalCommitAndPush": false,
   "changedFilesInStatusBar": false,
@@ -41,9 +41,9 @@
   "diffTimeout": 50,
   "autoStageOnEmptyIndex": true,
   "hunks": {
-    "showSigns": true,
+    "showSigns": false,
     "hunkCommands": false,
-    "statusBar": "colored"
+    "statusBar": "disabled"
   },
   "lineAuthor": {
     "show": false,
