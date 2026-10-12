@@ -1,0 +1,1 @@
+![Computergenerierter Alternativtext Dein Profil Sie...](Exported%20image%2020250905165719-0.png) ![Computergenerierter Alternativtext Ausbildung als ...](OneNote/attachments/Exported%20image%2020250905165720-1.png)

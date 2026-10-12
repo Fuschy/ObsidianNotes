@@ -1,0 +1,37 @@
+filters:
+  and:
+    - categories.contains("Deck")
+    - '!file.name.contains("Template")'
+views:
+  - type: cards
+    name: CommanderDecks
+    order:
+      - file.name
+      - commander
+      - colours
+      - archetype
+      - precon?
+      - upgraded?
+      - picture
+      - sleeves
+      - doublesleeved?
+    sort: []
+    columnSize: {}
+    image: note.picture
+    imageAspectRatio: 1.4
+    imageFit: contain
+  - type: table
+    name: CommanderDecks 2
+    order:
+      - file.name
+      - commander
+      - colours
+      - archetype
+      - precon?
+      - upgraded?
+      - picture
+      - sleeves
+      - doublesleeved?
+    sort: []
+    columnSize: {}
+    image: note.picture

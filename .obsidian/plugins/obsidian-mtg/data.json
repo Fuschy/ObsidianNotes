@@ -1,0 +1,15 @@
+{
+  "collection": {
+    "fileExtension": "mtg.collection.csv",
+    "nameColumn": "Name",
+    "countColumn": "Count",
+    "syncIntervalMs": 5000
+  },
+  "decklist": {
+    "preferredCurrency": "eur",
+    "showCardNamesAsHyperlinks": true,
+    "showCardPreviews": true,
+    "showBuylist": true,
+    "hidePrices": false
+  }
+}

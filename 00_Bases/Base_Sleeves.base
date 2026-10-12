@@ -1,0 +1,41 @@
+filters:
+  and:
+    - categories.contains("Sleeves")
+    - '!file.name.contains("Template")'
+properties:
+  note.type:
+    displayName: type
+views:
+  - type: table
+    name: Sleeves
+    order:
+      - file.name
+      - manufacturer
+      - picture
+      - sleevetype
+      - colours
+      - used
+      - url
+      - created
+      - tags
+    sort:
+      - property: colours
+        direction: ASC
+      - property: created
+        direction: ASC
+    columnSize: {}
+  - type: cards
+    name: Sleeves 2
+    order:
+      - file.name
+      - manufacturer
+      - picture
+      - sleevetype
+      - used
+      - url
+      - created
+    sort:
+      - property: created
+        direction: ASC
+    columnSize: {}
+    image: note.picture

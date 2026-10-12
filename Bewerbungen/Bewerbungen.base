@@ -1,0 +1,15 @@
+views:
+  - type: table
+    name: Sicht
+    filters:
+      and:
+        - file.inFolder("Bewerbungen")
+        - file.name != "Bewerbungen.base"
+    order:
+      - file.name
+      - title
+      - created
+      - description
+      - source
+      - stand
+      - tags

@@ -1,0 +1,42 @@
+filters:
+  and:
+    - categories.contains("Books")
+    - '!file.name.contains("Template")'
+views:
+  - type: cards
+    name: Bücher
+    order:
+      - file.name
+      - author
+      - genre
+      - pages
+      - year
+      - series
+      - isbn13
+      - topics
+      - tags
+      - rating
+      - last
+    image: note.cover
+    cardSize: 200
+    imageAspectRatio: 1.6
+    imageFit: contain
+  - type: table
+    name: Bücher 2
+    order:
+      - file.name
+      - author
+      - genre
+      - pages
+      - year
+      - series
+      - isbn13
+      - cover
+      - topics
+      - tags
+      - rating
+      - last
+    image: note.cover
+    cardSize: 200
+    imageAspectRatio: 1.6
+    imageFit: contain

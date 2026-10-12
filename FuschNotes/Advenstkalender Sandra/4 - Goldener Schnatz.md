@@ -1,0 +1,1 @@
+![[4-Goldener-Schnatz.pdf]]

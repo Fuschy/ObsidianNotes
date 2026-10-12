@@ -1,0 +1,20 @@
+filters:
+  and:
+    - categories.contains("Filaments")
+    - '!file.name.contains("Template")'
+views:
+  - type: table
+    name: Filament
+    order:
+      - file.name
+      - colourname
+      - colours
+      - filamenttype
+      - manufacturer
+      - model
+      - price
+      - rating
+      - spoolamount
+      - categories
+      - amount (kg)
+      - acquired

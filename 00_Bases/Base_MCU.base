@@ -1,0 +1,44 @@
+filters:
+  and:
+    - or:
+        - type == "mcu"
+        - type == "non-mcu"
+    - and:
+        - '!file.name.contains("TEMPLATE")'
+views:
+  - type: cards
+    name: Pictures
+    order:
+      - file.name
+      - title
+      - format
+      - type
+      - release_year
+      - timeline_year
+      - phase
+      - imdb-link
+    sort:
+      - property: release_year
+        direction: ASC
+    image: note.picture
+    imageFit: contain
+    imageAspectRatio: 1.45
+  - type: table
+    name: Table
+    order:
+      - title
+      - format
+      - type
+      - phase
+      - release_year
+      - timeline_year
+      - rating
+      - status
+      - tags
+      - imdb-link
+      - picture
+    sort:
+      - property: phase
+        direction: ASC
+      - property: release_year
+        direction: ASC

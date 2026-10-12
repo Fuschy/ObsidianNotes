@@ -1,0 +1,1 @@
+![Computergenerierter Alternativtext Tea Settings](Exported%20image%2020250905170806-0.png)

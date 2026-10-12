@@ -1,0 +1,2 @@
+[https://www.microsoft.com/Licensing/servicecenter/default.aspx](https://www.microsoft.com/Licensing/servicecenter/default.aspx)
+ ![Downloads and Keys hstawer cm X e C httpswvvmxrOSO...](OneNote/attachments/Exported%20image%2020250905165916-0.png)

@@ -1,0 +1,1 @@
+![[10-Ständer-Teil-1.pdf]]

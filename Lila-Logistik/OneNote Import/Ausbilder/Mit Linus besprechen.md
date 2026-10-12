@@ -1,0 +1,1 @@
+Lunch n Leanr für die Präsentationen? Vlt auch nurt für den Anfang als Anreiz bis es mal drin ist

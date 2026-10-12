@@ -1,0 +1,24 @@
+```yaml
+services:
+
+  homepage:
+
+    image: ghcr.io/gethomepage/homepage:latest
+
+    container_name: homepage
+
+    ports:
+
+      - 3000:3000
+
+    volumes:
+
+      - /volume1/docker/homepage/config:/app/config # Make sure your local config directory exists
+
+      - /volume1/docker/homepage/docker.sock:/var/run/docker.sock:ro # (optional) For docker integrations
+
+    environment:
+
+      HOMEPAGE_ALLOWED_HOSTS: gethomepage.dev,192.168.178.101:3000 # required, may need port. See gethomepage.dev/installation/#homepage_allowed_hosts
+```
+

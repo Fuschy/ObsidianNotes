@@ -1,0 +1,48 @@
+filters:
+  and:
+    - file.tags.contains("immobilie")
+    - '!file.name.contains("TEMPLATE")'
+views:
+  - type: cards
+    name: MitBild
+    order:
+      - file.name
+      - categories
+      - ort
+      - baujahr
+      - kaufpreis
+      - m²preis
+      - wohnfläche (m²)
+      - grundfläche (m²)
+      - zimmer
+      - heizungsart
+      - energieeffizienz
+      - erstbesichtigung
+      - rating
+      - stand
+      - clipping
+      - attachment
+    image: note.picture
+  - type: table
+    name: Table
+    order:
+      - file.name
+      - ort
+      - categories
+      - baujahr
+      - kaufpreis
+      - m²preis
+      - wohnfläche (m²)
+      - grundfläche (m²)
+      - zimmer
+      - heizungsart
+      - energieeffizienz
+      - stand
+      - erstbesichtigung
+      - rating
+    sort:
+      - property: kaufpreis
+        direction: ASC
+    columnSize:
+      file.name: 171
+      note.rating: 133

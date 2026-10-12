@@ -1,0 +1,20 @@
+---
+categories:
+  - Filaments
+filamenttype:
+  - PLA
+colours:
+  - Orange
+filamentname: Orange
+manufacturer: Polymaker
+model: Panchroma
+rating:
+amount (kg): 1
+price: 19,99
+acquired: 2026-01-21
+spoolamount: "1"
+tags:
+  - 3dprint
+  - filament
+  - spool
+---

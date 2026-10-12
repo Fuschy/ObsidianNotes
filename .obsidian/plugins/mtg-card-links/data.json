@@ -1,0 +1,14 @@
+{
+  "linkSite": "edhrec",
+  "imageSize": 0.5,
+  "showPrices": true,
+  "showPricesUsd": false,
+  "showPricesEur": true,
+  "showPricesTix": false,
+  "showSet": true,
+  "requiredPrefix": "",
+  "currencySeparator": " | ",
+  "priceSeparator": " / ",
+  "foilPostfix": " *F*",
+  "foilEtchedPostfix": " *E*"
+}

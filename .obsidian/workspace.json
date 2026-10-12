@@ -1,0 +1,254 @@
+{
+  "main": {
+    "id": "1b99ffecf85d0494",
+    "type": "split",
+    "children": [
+      {
+        "id": "022f410905f59606",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b609fc33d7823f85",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "NeuerGitTest/TestGitNotiz.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "TestGitNotiz"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "05ed1ef5e9af2707",
+    "type": "split",
+    "children": [
+      {
+        "id": "6056f857f21871b5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cd0514217498e9c0",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Dateiexplorer"
+            }
+          },
+          {
+            "id": "d21b3246be711492",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Suchen"
+            }
+          },
+          {
+            "id": "28e46f32e1d8eb85",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 271.5
+  },
+  "right": {
+    "id": "c0ade2abe71fd236",
+    "type": "split",
+    "children": [
+      {
+        "id": "2b6a99a69c585ec6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "949d5203b8a0ccbc",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Daily Notes/07 Juli/2026-07-05-Sonntag.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Rückverweise auf 2026-07-05-Sonntag"
+            }
+          },
+          {
+            "id": "2baaaa8016a1c08a",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Finanzen/Gas Abschläge.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Gas Abschläge"
+            }
+          },
+          {
+            "id": "ed6ae2ec736bf116",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "2861f8dcd87659e4",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "feaa884d61997a43",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Finanzen/Gas Abschläge.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Gas Abschläge"
+            }
+          },
+          {
+            "id": "c1c8b0e4873fac58",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "calendar"
+            }
+          },
+          {
+            "id": "106aae24110f11d3",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 6
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Schnellauswahl öffnen": false,
+      "graph:Graph-Ansicht öffnen": false,
+      "canvas:Neuen Canvas erstellen": false,
+      "daily-notes:Heutige Notiz öffnen": false,
+      "templates:Vorlage einfügen": false,
+      "command-palette:Befehlspalette öffnen": false,
+      "bases:Neue Base erstellen": false,
+      "templater-obsidian:Templater": false,
+      "omnisearch:Omnisearch": false,
+      "obsidian-git:Open Git source control": false,
+      "periodic-notes:Open today": false
+    }
+  },
+  "active": "b609fc33d7823f85",
+  "lastOpenFiles": [
+    "Magic The Gathering/Commander-Decks/Ashling, the Limitless.md",
+    "NeuerGitTest/TestGitNotiz.md",
+    "Danziger Strasse/Bases/Base_Daily Notes.base",
+    "NeuerGitTest",
+    "Synology/Container Manager/Link und Portübersicht.md",
+    "Synology/Container Manager/Docker IDs für YAML.md",
+    "Comics/Marvel Events.md",
+    "Comics/Marvel Charactere.md",
+    "Comics/XXX_Attachments/Marvel Charactere-1791380473848.webp",
+    "Bewerbungen/Bewerbungen.base",
+    "Finanzen/Kreditraten.md",
+    "Finanzen/Ausgaben.md",
+    "Notes/Sanitär Angebote Vergleich.md",
+    "Daily Notes/07 Juli/2026-07-05-Sonntag.md",
+    "Daily Notes/07 Juli/2026-07-07-Dienstag.md",
+    "Daily Notes/07 Juli/2026-07-06-Montag.md",
+    "Daily Notes/07 Juli/2026-07-04-Samstag.md",
+    "Daily Notes/07 Juli/2026-07-03-Freitag.md",
+    "Daily Notes/07 Juli/2026-07-02-Donnerstag.md",
+    "Daily Notes/07 Juli/2026-07-01-Mittwoch.md",
+    "Daily Notes/07 Juli/2026-07-08-Mittwoch.md",
+    "Daily Notes/07 Juli",
+    "Daily Notes/06 Juni/2026-06-30-Dienstag.md",
+    "Daily Notes/06 Juni/2026-06-29-Montag.md",
+    "Finanzen/Gas Abschläge.md",
+    "Finanzen/Versicherungen.md",
+    "Notes/Induktionsfähiges.md",
+    "Daily Notes/06 Juni/2026-06-28-Sonntag.md",
+    "Daily Notes/06 Juni/2026-06-27-Samstag.md",
+    "Daily Notes/06 Juni/2026-06-26-Freitag.md",
+    "Daily Notes/06 Juni/2026-06-25-Donnerstag.md",
+    "ZZZ_Administration/ZZZ_Angebote/Küche_Molemin_Kaufvertrag.pdf",
+    "ZZZ_Administration/ZZZ_Angebote/Küche_Molemin_Rechnung.pdf",
+    "ZZZ_Administration/ZZZ_Angebote/Angebot_Wenninger.pdf",
+    "ZZZ_Administration/ZZZ_Angebote/Angebot Hellmich.pdf",
+    "ZZZ_Administration/ZZZ_Attachments/Baubeschreibung Kreissparkasse Ludwigsburg.pdf",
+    "ZZZ_Administration/ZZZ_Attachments/Wonhflächenberechnung.pdf",
+    "ZZZ_Administration/ZZZ_Attachments/Kleinglattbach_Reiheneckhaus_Bild.jpg"
+  ]
+}

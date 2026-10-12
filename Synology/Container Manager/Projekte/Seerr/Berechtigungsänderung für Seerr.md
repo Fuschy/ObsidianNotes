@@ -1,0 +1,1 @@
+docker run --rm -v /volume1/docker/seerr:/data alpine chown -R 1000:1000 /data

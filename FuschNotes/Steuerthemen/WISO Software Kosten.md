@@ -1,0 +1,1 @@
+![[FuschNotes/Steuerthemen/attachments/Pasted image 20250904175531.png]]
