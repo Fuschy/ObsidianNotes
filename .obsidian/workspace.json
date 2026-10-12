@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Synology/Container Manager/Link und Portübersicht.md",
+                "file": "Comics/Indies.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Link und Portübersicht"
+              "title": "Indies"
             }
           }
         ]
@@ -210,13 +210,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "106aae24110f11d3",
+  "active": "b609fc33d7823f85",
   "lastOpenFiles": [
+    "Comics/Marvel Ultimate Universe 2024.md",
+    "Comics/Indies.md",
+    "Synology/Container Manager/Link und Portübersicht.md",
     "NeuerGitTest/TestGitNotiz.md",
     "Magic The Gathering/Commander-Decks/Ashling, the Limitless.md",
     "Danziger Strasse/Bases/Base_Daily Notes.base",
     "NeuerGitTest",
-    "Synology/Container Manager/Link und Portübersicht.md",
     "Synology/Container Manager/Docker IDs für YAML.md",
     "Comics/Marvel Events.md",
     "Comics/Marvel Charactere.md",
@@ -241,8 +243,6 @@
     "Notes/Induktionsfähiges.md",
     "Daily Notes/06 Juni/2026-06-28-Sonntag.md",
     "Daily Notes/06 Juni/2026-06-27-Samstag.md",
-    "Daily Notes/06 Juni/2026-06-26-Freitag.md",
-    "Daily Notes/06 Juni/2026-06-25-Donnerstag.md",
     "ZZZ_Administration/ZZZ_Angebote/Küche_Molemin_Kaufvertrag.pdf",
     "ZZZ_Administration/ZZZ_Angebote/Küche_Molemin_Rechnung.pdf",
     "ZZZ_Administration/ZZZ_Angebote/Angebot_Wenninger.pdf",
