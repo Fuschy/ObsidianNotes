@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Comics/Indies.md",
+                "file": "Comics/Marvel Charactere.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Indies"
+              "title": "Marvel Charactere"
             }
           }
         ]
@@ -206,14 +206,14 @@
       "bases:Neue Base erstellen": false,
       "templater-obsidian:Templater": false,
       "omnisearch:Omnisearch": false,
-      "periodic-notes:Open today": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "periodic-notes:Open today": false
     }
   },
   "active": "b609fc33d7823f85",
   "lastOpenFiles": [
-    "Comics/Marvel Ultimate Universe 2024.md",
     "Comics/Indies.md",
+    "Comics/Marvel Ultimate Universe 2024.md",
     "Synology/Container Manager/Link und Portübersicht.md",
     "NeuerGitTest/TestGitNotiz.md",
     "Magic The Gathering/Commander-Decks/Ashling, the Limitless.md",
