@@ -16,7 +16,8 @@ intune wird von clientteam betreut
 entra id purview sind haupttehmen
 einarbeitung: mit ins tagesgeschäft, aber keine richtige struktur
 2tage Büro, 3 Tage HO
-
+Fazit: Keine Struktur da IT Team Leiter auch aktuell neu ist. Hauptthema mit Purview ist nicht meins.
+Mal Rückmeldung von denen abwarten und schauen was passiert. Aber vermutlich eher nicht.
 
 # Microsoft 365 Administrator (m/w/d)
 
