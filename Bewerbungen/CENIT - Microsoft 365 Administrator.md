@@ -10,6 +10,7 @@ tags:
 stand: Kennenlerngespräch 19.10.26
 ---
 # Notizen Kennenlerngespräch 19.10.26:
+interne it
 
 
 
