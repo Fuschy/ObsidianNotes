@@ -11,7 +11,10 @@ stand: Kennenlerngespräch 19.10.26
 ---
 # Notizen Kennenlerngespräch 19.10.26:
 interne it
-
+ich bin in der infrastukrut
+intune wird von clientteam betreut
+entra id purview sind haupttehmen
+einarbeitung: mit ins tagesgeschäft, aber keine richtige struktur
 
 
 # Microsoft 365 Administrator (m/w/d)

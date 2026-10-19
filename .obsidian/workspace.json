@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bewerbungen/CENIT - Microsoft 365 Administrator.md",
+                "file": "Bewerbungen/Fragen für Bewerbungsgespräche.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "CENIT - Microsoft 365 Administrator"
+              "title": "Fragen für Bewerbungsgespräche"
             }
           }
         ]
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bewerbungen/CENIT - Microsoft 365 Administrator.md",
+                "file": "Bewerbungen/Fragen für Bewerbungsgespräche.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Bewerbungen/CENIT - Microsoft 365 Administrator.md",
+                "file": "Bewerbungen/Fragen für Bewerbungsgespräche.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -160,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Bewerbungen/CENIT - Microsoft 365 Administrator.md",
+                "file": "Bewerbungen/Fragen für Bewerbungsgespräche.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -227,9 +227,9 @@
   },
   "active": "b609fc33d7823f85",
   "lastOpenFiles": [
-    "Bewerbungen/Bewerbungen.base",
     "Bewerbungen/CENIT - Microsoft 365 Administrator.md",
     "Bewerbungen/Fragen für Bewerbungsgespräche.md",
+    "Bewerbungen/Bewerbungen.base",
     "Comics/Marvel Charactere.md",
     "Comics/Indies.md",
     "Comics/Marvel Ultimate Universe 2024.md",
