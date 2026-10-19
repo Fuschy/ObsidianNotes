@@ -7,9 +7,13 @@ created: 2026-10-06
 description:
 tags:
   - clippings
-stand: Bewerbung verschickt
+stand: Kennenlerngespräch 19.10.26
 ---
-Microsoft 365 Administrator (m/w/d)
+# Notizen Kennenlerngespräch 19.10.26:
+
+
+
+# Microsoft 365 Administrator (m/w/d)
 
 Stuttgart, Baden-Württemberg, Deutschland · Vor 1 Monat · 44 Kandidat:innen haben auf „Bewerben“ geklickt
 

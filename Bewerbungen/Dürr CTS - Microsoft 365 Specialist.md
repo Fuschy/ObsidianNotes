@@ -8,7 +8,7 @@ created: 2026-10-06
 description:
 tags:
   - clippings
-stand: Bewerbung verschickt
+stand: Absage erhalten
 ---
 ![Unternehmenslogo für Dürr CTS - Clean Technology Systems|100x100](https://media.licdn.com/dms/image/v2/D4E0BAQGxCShyxXY3Wg/company-logo_100_100/B4EZok08TzGYAQ-/0/1761554450463?e=1792627200&v=beta&t=qZ4fUyccN-FXSISD4B1Dw2YekGEM7dOJcFyzUmZ4pUM)
 
