@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Synology/Container Manager/Link und Portübersicht.md",
+                "file": "Synology/Container Manager/Projekte/sabnzbd/sabnzbd - YAML.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Link und Portübersicht"
+              "title": "sabnzbd - YAML"
             }
           }
         ]
@@ -227,10 +227,12 @@
   },
   "active": "b609fc33d7823f85",
   "lastOpenFiles": [
+    "Synology/Container Manager/Projekte/Seerr/Seerr - YAML.md",
+    "Synology/Container Manager/Projekte/Tautulli/Tautulli - YAML.md",
+    "Synology/Container Manager/Link und Portübersicht.md",
     "Synology/Container Manager/Projekte/Jellyseerr/Jellyseerr - YAML.md",
     "Synology/Container Manager/Projekte/MakeMKV/MakeMKV - YAML.md",
     "Synology/Container Manager/Docker IDs für YAML.md",
-    "Synology/Container Manager/Link und Portübersicht.md",
     "Bewerbungen/CENIT - Microsoft 365 Administrator.md",
     "Bewerbungen/Fragen für Bewerbungsgespräche.md",
     "Bewerbungen/Bewerbungen.base",
@@ -256,8 +258,6 @@
     "Daily Notes/07 Juli/2026-07-08-Mittwoch.md",
     "Daily Notes/07 Juli",
     "Daily Notes/06 Juni/2026-06-30-Dienstag.md",
-    "Daily Notes/06 Juni/2026-06-29-Montag.md",
-    "Finanzen/Gas Abschläge.md",
     "ZZZ_Administration/ZZZ_Angebote/Küche_Molemin_Kaufvertrag.pdf",
     "ZZZ_Administration/ZZZ_Angebote/Küche_Molemin_Rechnung.pdf",
     "ZZZ_Administration/ZZZ_Angebote/Angebot_Wenninger.pdf",
