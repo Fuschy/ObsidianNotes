@@ -7,7 +7,7 @@ created: 2026-10-06
 description:
 tags:
   - clippings
-stand: Kennenlerngespräch 19.10.26
+stand: Absage erhalten
 ---
 # Notizen Kennenlerngespräch 19.10.26:
 interne it

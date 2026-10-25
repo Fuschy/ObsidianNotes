@@ -13,29 +13,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Bewerbungen/CENIT - Microsoft 365 Administrator.md",
+                "file": "Synology/Container Manager/Link und Portübersicht.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "CENIT - Microsoft 365 Administrator"
-            }
-          },
-          {
-            "id": "1b94b2d40337d2b0",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.14.5"
-              },
-              "icon": "lucide-book-up",
-              "title": "Versionshinweise 1.14.5"
+              "title": "Link und Portübersicht"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -238,20 +225,22 @@
       "periodic-notes:Open today": false
     }
   },
-  "active": "1b94b2d40337d2b0",
+  "active": "b609fc33d7823f85",
   "lastOpenFiles": [
-    "Bewerbungen/Fragen für Bewerbungsgespräche.md",
+    "Synology/Container Manager/Projekte/Jellyseerr/Jellyseerr - YAML.md",
+    "Synology/Container Manager/Projekte/MakeMKV/MakeMKV - YAML.md",
+    "Synology/Container Manager/Docker IDs für YAML.md",
+    "Synology/Container Manager/Link und Portübersicht.md",
     "Bewerbungen/CENIT - Microsoft 365 Administrator.md",
+    "Bewerbungen/Fragen für Bewerbungsgespräche.md",
     "Bewerbungen/Bewerbungen.base",
     "Comics/Marvel Charactere.md",
     "Comics/Indies.md",
     "Comics/Marvel Ultimate Universe 2024.md",
-    "Synology/Container Manager/Link und Portübersicht.md",
     "NeuerGitTest/TestGitNotiz.md",
     "Magic The Gathering/Commander-Decks/Ashling, the Limitless.md",
     "Danziger Strasse/Bases/Base_Daily Notes.base",
     "NeuerGitTest",
-    "Synology/Container Manager/Docker IDs für YAML.md",
     "Comics/Marvel Events.md",
     "Comics/XXX_Attachments/Marvel Charactere-1791380473848.webp",
     "Finanzen/Kreditraten.md",
@@ -269,7 +258,6 @@
     "Daily Notes/06 Juni/2026-06-30-Dienstag.md",
     "Daily Notes/06 Juni/2026-06-29-Montag.md",
     "Finanzen/Gas Abschläge.md",
-    "Finanzen/Versicherungen.md",
     "ZZZ_Administration/ZZZ_Angebote/Küche_Molemin_Kaufvertrag.pdf",
     "ZZZ_Administration/ZZZ_Angebote/Küche_Molemin_Rechnung.pdf",
     "ZZZ_Administration/ZZZ_Angebote/Angebot_Wenninger.pdf",
