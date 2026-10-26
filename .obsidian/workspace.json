@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Comics/Indies.md",
+                "file": "Synology/Container Manager/Projekte/sabnzbd/sabnzbd - YAML.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Indies"
+              "title": "sabnzbd - YAML"
             }
           }
         ]
@@ -90,6 +90,7 @@
       {
         "id": "2b6a99a69c585ec6",
         "type": "tabs",
+        "dimension": 54.022988505747136,
         "children": [
           {
             "id": "949d5203b8a0ccbc",
@@ -97,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Daily Notes/07 Juli/2026-07-05-Sonntag.md",
+                "file": "Bewerbungen/CENIT - Microsoft 365 Administrator.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,7 +108,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Rückverweise auf 2026-07-05-Sonntag"
+              "title": "Rückverweise"
             }
           },
           {
@@ -116,12 +117,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Finanzen/Gas Abschläge.md",
+                "file": "Bewerbungen/CENIT - Microsoft 365 Administrator.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Gas Abschläge"
+              "title": "Ausgehende Links"
             }
           },
           {
@@ -150,7 +151,7 @@
                 "searchQuery": ""
               },
               "icon": "lucide-archive",
-              "title": "All properties"
+              "title": "Alle Eigenschaften"
             }
           },
           {
@@ -159,25 +160,40 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Finanzen/Gas Abschläge.md",
+                "file": "Bewerbungen/CENIT - Microsoft 365 Administrator.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Gas Abschläge"
+              "title": "Gliederung"
             }
-          },
+          }
+        ],
+        "currentTab": 3
+      },
+      {
+        "id": "e98d853715e41a6d",
+        "type": "tabs",
+        "dimension": 27.586206896551726,
+        "children": [
           {
             "id": "c1c8b0e4873fac58",
             "type": "leaf",
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "calendar"
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "f110f336fa403628",
+        "type": "tabs",
+        "dimension": 18.390804597701152,
+        "children": [
           {
             "id": "106aae24110f11d3",
             "type": "leaf",
@@ -188,8 +204,7 @@
               "title": "Source Control"
             }
           }
-        ],
-        "currentTab": 6
+        ]
       }
     ],
     "direction": "horizontal",
@@ -206,24 +221,30 @@
       "bases:Neue Base erstellen": false,
       "templater-obsidian:Templater": false,
       "omnisearch:Omnisearch": false,
-      "periodic-notes:Open today": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "periodic-notes:Open today": false
     }
   },
   "active": "b609fc33d7823f85",
   "lastOpenFiles": [
-    "Comics/Marvel Ultimate Universe 2024.md",
-    "Comics/Indies.md",
+    "Synology/Container Manager/Projekte/Seerr/Seerr - YAML.md",
+    "Synology/Container Manager/Projekte/Tautulli/Tautulli - YAML.md",
     "Synology/Container Manager/Link und Portübersicht.md",
+    "Synology/Container Manager/Projekte/Jellyseerr/Jellyseerr - YAML.md",
+    "Synology/Container Manager/Projekte/MakeMKV/MakeMKV - YAML.md",
+    "Synology/Container Manager/Docker IDs für YAML.md",
+    "Bewerbungen/CENIT - Microsoft 365 Administrator.md",
+    "Bewerbungen/Fragen für Bewerbungsgespräche.md",
+    "Bewerbungen/Bewerbungen.base",
+    "Comics/Marvel Charactere.md",
+    "Comics/Indies.md",
+    "Comics/Marvel Ultimate Universe 2024.md",
     "NeuerGitTest/TestGitNotiz.md",
     "Magic The Gathering/Commander-Decks/Ashling, the Limitless.md",
     "Danziger Strasse/Bases/Base_Daily Notes.base",
     "NeuerGitTest",
-    "Synology/Container Manager/Docker IDs für YAML.md",
     "Comics/Marvel Events.md",
-    "Comics/Marvel Charactere.md",
     "Comics/XXX_Attachments/Marvel Charactere-1791380473848.webp",
-    "Bewerbungen/Bewerbungen.base",
     "Finanzen/Kreditraten.md",
     "Finanzen/Ausgaben.md",
     "Notes/Sanitär Angebote Vergleich.md",
@@ -237,12 +258,6 @@
     "Daily Notes/07 Juli/2026-07-08-Mittwoch.md",
     "Daily Notes/07 Juli",
     "Daily Notes/06 Juni/2026-06-30-Dienstag.md",
-    "Daily Notes/06 Juni/2026-06-29-Montag.md",
-    "Finanzen/Gas Abschläge.md",
-    "Finanzen/Versicherungen.md",
-    "Notes/Induktionsfähiges.md",
-    "Daily Notes/06 Juni/2026-06-28-Sonntag.md",
-    "Daily Notes/06 Juni/2026-06-27-Samstag.md",
     "ZZZ_Administration/ZZZ_Angebote/Küche_Molemin_Kaufvertrag.pdf",
     "ZZZ_Administration/ZZZ_Angebote/Küche_Molemin_Rechnung.pdf",
     "ZZZ_Administration/ZZZ_Angebote/Angebot_Wenninger.pdf",

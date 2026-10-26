@@ -7,9 +7,19 @@ created: 2026-10-06
 description:
 tags:
   - clippings
-stand: Bewerbung verschickt
+stand: Absage erhalten
 ---
-Microsoft 365 Administrator (m/w/d)
+# Notizen Kennenlerngespräch 19.10.26:
+interne it
+ich bin in der infrastukrut
+intune wird von clientteam betreut
+entra id purview sind haupttehmen
+einarbeitung: mit ins tagesgeschäft, aber keine richtige struktur
+2tage Büro, 3 Tage HO
+Fazit: Keine Struktur da IT Team Leiter auch aktuell neu ist. Hauptthema mit Purview ist nicht meins.
+Mal Rückmeldung von denen abwarten und schauen was passiert. Aber vermutlich eher nicht.
+
+# Microsoft 365 Administrator (m/w/d)
 
 Stuttgart, Baden-Württemberg, Deutschland · Vor 1 Monat · 44 Kandidat:innen haben auf „Bewerben“ geklickt
 

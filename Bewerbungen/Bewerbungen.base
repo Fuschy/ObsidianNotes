@@ -5,11 +5,12 @@ views:
       and:
         - file.inFolder("Bewerbungen")
         - file.name != "Bewerbungen.base"
+        - file.name != "Fragen für Bewerbungsgespräche"
     order:
       - file.name
       - title
+      - stand
       - created
       - description
       - source
-      - stand
       - tags
