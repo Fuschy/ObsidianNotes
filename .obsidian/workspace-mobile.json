@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Comics/Marvel Events.md",
+                "file": "Comics/Wants.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Marvel Events"
+              "title": "Wants"
             }
           }
         ]
@@ -115,6 +115,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "Comics/Marvel Charactere.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -184,6 +185,8 @@
   "active": "fac7d9ad5eac2b05",
   "lastOpenFiles": [
     "Comics/Marvel Charactere.md",
+    "Comics/Wants.md",
+    "Comics/Marvel Events.md",
     "Magic The Gathering/Story Web Clippings/2015 Magic Origins/Chandras Ursprung Die Logik des Feuers.md",
     "ZZZ_Administration/Clippings/Test Sync.md"
   ]
