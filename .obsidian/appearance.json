@@ -1,4 +1,5 @@
 {
   "accentColor": "#ff9500",
-  "cssTheme": ""
+  "cssTheme": "",
+  "showRibbon": true
 }
