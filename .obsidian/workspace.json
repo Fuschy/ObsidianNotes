@@ -26,12 +26,15 @@
             "id": "c1001de6f93adccf",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.15.1"
+                "file": "Comics/Marvel Charactere.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
               },
-              "icon": "lucide-book-up",
-              "title": "Versionshinweise 1.15.1"
+              "icon": "lucide-file",
+              "title": "Marvel Charactere"
             }
           }
         ],
@@ -103,7 +106,7 @@
       {
         "id": "2b6a99a69c585ec6",
         "type": "tabs",
-        "dimension": 54.02298850574712,
+        "dimension": 54.02298850574713,
         "children": [
           {
             "id": "949d5203b8a0ccbc",
@@ -240,6 +243,7 @@
   },
   "active": "c1001de6f93adccf",
   "lastOpenFiles": [
+    "Comics/Indies.md",
     "Comics/Marvel Sonstiges.md",
     "Comics/Marvel Ultimate Universe 2024.md",
     "Comics/Wants.md",
@@ -254,7 +258,6 @@
     "Bewerbungen/Fragen für Bewerbungsgespräche.md",
     "Bewerbungen/Bewerbungen.base",
     "Comics/Marvel Charactere.md",
-    "Comics/Indies.md",
     "NeuerGitTest/TestGitNotiz.md",
     "Magic The Gathering/Commander-Decks/Ashling, the Limitless.md",
     "Danziger Strasse/Bases/Base_Daily Notes.base",
