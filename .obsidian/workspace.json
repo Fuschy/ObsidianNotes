@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Comics/Marvel Charactere.md",
+                "file": "Comics/Wants.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Marvel Charactere"
+              "title": "Wants"
             }
           }
         ],
@@ -106,7 +106,7 @@
       {
         "id": "2b6a99a69c585ec6",
         "type": "tabs",
-        "dimension": 54.02298850574713,
+        "dimension": 54.022988505747136,
         "children": [
           {
             "id": "949d5203b8a0ccbc",
@@ -191,7 +191,7 @@
       {
         "id": "e98d853715e41a6d",
         "type": "tabs",
-        "dimension": 27.586206896551722,
+        "dimension": 27.586206896551726,
         "children": [
           {
             "id": "c1c8b0e4873fac58",
@@ -208,7 +208,7 @@
       {
         "id": "f110f336fa403628",
         "type": "tabs",
-        "dimension": 18.39080459770115,
+        "dimension": 18.390804597701152,
         "children": [
           {
             "id": "106aae24110f11d3",
@@ -243,6 +243,7 @@
   },
   "active": "c1001de6f93adccf",
   "lastOpenFiles": [
+    "Comics/Marvel Charactere.md",
     "Comics/Indies.md",
     "Comics/Marvel Sonstiges.md",
     "Comics/Marvel Ultimate Universe 2024.md",
@@ -257,7 +258,6 @@
     "Bewerbungen/CENIT - Microsoft 365 Administrator.md",
     "Bewerbungen/Fragen für Bewerbungsgespräche.md",
     "Bewerbungen/Bewerbungen.base",
-    "Comics/Marvel Charactere.md",
     "NeuerGitTest/TestGitNotiz.md",
     "Magic The Gathering/Commander-Decks/Ashling, the Limitless.md",
     "Danziger Strasse/Bases/Base_Daily Notes.base",
